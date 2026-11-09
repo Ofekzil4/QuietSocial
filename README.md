@@ -2,7 +2,7 @@
 
 **Android Digital Wellbeing App | Closed Beta | Proprietary Project**
 
-[Watch the app in action](https://lnkd.in/dHVi-fTw) | [Privacy Policy](https://github.com/Ofekzil4/quietsocial-privacy)
+[Watch the app in action](https://www.youtube.com/shorts/Zs7TJSfRxSY) | [Privacy Policy](https://github.com/Ofekzil4/quietsocial-privacy)
 
 ## Overview
 
